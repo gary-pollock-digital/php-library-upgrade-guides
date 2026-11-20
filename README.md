@@ -17,6 +17,7 @@ Each guide explains:
 | mapi | ??? |  | not started |
 | mpdf | 6.0 |  | not started |
 | mpdf | 7.1 |  | not started |
+| NEMESIS | | | no changes required (already compatible) |
 | phpdocx | 12 |  | not started |
 | PHPExcel | 1.8.0 | 6.12.0 | not started |
 | PHPMailer | 6.0.3 | 6.12.0 | in progress |
