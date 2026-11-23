@@ -19,8 +19,8 @@ Each guide explains:
 | mpdf | 7.1 |  | not started |
 | NEMESIS | | | no changes required (already compatible) |
 | phpdocx | 12 |  | not started |
-| PHPExcel | 1.8.0 | 6.12.0 | not started |
+| PHPExcel | 1.8.0 |  | not started |
 | PHPMailer | 6.0.3 | 6.12.0 | in progress |
-| PHPSpreadsheet | 1.14.1.0 | TBD | not started |
+| PHPSpreadsheet | 1.14.1.0 |  | not started |
 
 
