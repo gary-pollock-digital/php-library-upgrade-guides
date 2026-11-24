@@ -24,6 +24,7 @@ This is available on the following servers (before migration)...
 | alpha | yes |
 | bravo | yes |
 | echo | yes |
+| test | yes |
 | nightingale | yes |
 
 ## 4. Code Changes Required in Apps
