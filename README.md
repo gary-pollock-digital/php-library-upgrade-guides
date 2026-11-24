@@ -15,8 +15,8 @@ Each guide explains:
 | Library | Current Version | New Version | Status |
 |---|---|---|---|
 | mapi | ??? |  | not started |
-| mpdf | 6.0 |  | not started |
-| mpdf | 7.1 |  | not started |
+| mpdf | 6.0 | 8.3.1 | in progress |
+| mpdf | 7.1 | 8.3.1 | in progress |
 | NEMESIS | | | no changes required (already compatible) |
 | phpdocx | 12 |  | not started |
 | PHPExcel | 1.8.0 |  | not started |
