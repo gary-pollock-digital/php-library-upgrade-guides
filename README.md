@@ -15,12 +15,12 @@ Each guide explains:
 | Library | Current Version | New Version Identified | Added to /var/www/html/libaries_php? | Tested? |
 |---|---|---|---|---|
 | mapi | ??? |  |  |  |
-| mpdf | 6.0 | 8.3.1 | yes | no |
-| mpdf | 7.1 | 8.3.1 | yes | no |
+| [mpdf](https://github.com/gary-pollock-digital/php-library-upgrade-guides/blob/main/libraries/mPDF.md) | 6.0 | 8.3.1 | yes | no |
+| [mpdf](https://github.com/gary-pollock-digital/php-library-upgrade-guides/blob/main/libraries/mPDF.md) | 7.1 | 8.3.1 | yes | no |
 | NEMESIS | no changes required (already compatible) | |  |
 | phpdocx | 12 |  |  |  |
 | PHPExcel | 1.8.0 |  |  |  |
-| PHPMailer | 6.0.3 | 6.12.0 | yes | no |
+| [PHPMailer](https://github.com/gary-pollock-digital/php-library-upgrade-guides/blob/main/libraries/PHPMailer.md) | 6.0.3 | 6.12.0 | yes | no |
 | PHPSpreadsheet | 1.14.1.0 |  |  |  |
 
 
