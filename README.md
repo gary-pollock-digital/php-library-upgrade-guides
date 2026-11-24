@@ -12,15 +12,15 @@ Each guide explains:
 
 ## Library Upgrade Guides
 
-| Library | Current Version | New Version | Status |
-|---|---|---|---|
-| mapi | ??? |  | not started |
-| mpdf | 6.0 | 8.3.1 | in progress |
-| mpdf | 7.1 | 8.3.1 | in progress |
-| NEMESIS | | | no changes required (already compatible) |
-| phpdocx | 12 |  | not started |
-| PHPExcel | 1.8.0 |  | not started |
-| PHPMailer | 6.0.3 | 6.12.0 | in progress |
-| PHPSpreadsheet | 1.14.1.0 |  | not started |
+| Library | Current Version | New Version Identified | Added to /var/www/html/libaries_php? | Tested? |
+|---|---|---|---|---|
+| mapi | ??? |  |  |  |
+| mpdf | 6.0 | 8.3.1 | yes | no |
+| mpdf | 7.1 | 8.3.1 | yes | no |
+| NEMESIS | no changes required (already compatible) | |  |
+| phpdocx | 12 |  |  |  |
+| PHPExcel | 1.8.0 |  |  |  |
+| PHPMailer | 6.0.3 | 6.12.0 | yes | no |
+| PHPSpreadsheet | 1.14.1.0 |  |  |  |
 
 
